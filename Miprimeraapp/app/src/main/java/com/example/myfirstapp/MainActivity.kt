@@ -24,7 +24,5 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
-    class DisplayMessageActivity {
 
-    }
 }
